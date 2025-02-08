@@ -11,3 +11,6 @@ wheels/
 
 #Tests
 test/
+
+#M My additional directorires/files
+testing_packages/
